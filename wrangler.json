@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "holy-credit-e874",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b92f501c-e2fe-4558-98d1-98014296c153",
+      "database_name": "withered-unit-cb7f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
